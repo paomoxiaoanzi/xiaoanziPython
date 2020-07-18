@@ -11,3 +11,6 @@ git命令
 git status  仓库的状态
 git add +文件名  跟踪文件
 git commit -m "提交的注释说明" 提交命令
+clear 清屏
+git add .  把所有已修改的文件移到暂存区
+git log 显示历史所有提交命令
