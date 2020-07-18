@@ -16,3 +16,4 @@ git add .  把所有已修改的文件移到暂存区
 git log 显示历史所有提交命令
 git remote add origin +远程仓库链接  给本地仓库添加远程仓库命令
 git push -u origin master  
+ssh-keygen -t rsa -C"18809343303@139.com"
