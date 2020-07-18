@@ -2,18 +2,24 @@ github
 账号名称：paomoxiaoanzi
 密码：
 
+
 git本地仓库
-xiaoanziPython_git
+cd xiaoanziPython_git   进入本地库
 user.name=paomoxiaoanzi
 user.email=18809343303@139.com
 
-git命令
+
+push文件命令：
 git status  仓库的状态
-git add +文件名  跟踪文件
+git add +文件名  或者git add .跟踪文件
 git commit -m "提交的注释说明" 提交命令
-clear 清屏
+git push -u origin master 给远程库提交
 git add .  把所有已修改的文件移到暂存区
 git log 显示历史所有提交命令
 git remote add origin +远程仓库链接  给本地仓库添加远程仓库命令
-git push -u origin master  
-ssh-keygen -t rsa -C"18809343303@139.com"
+ 
+ssh-keygen -t rsa -C"18809343303@139.com"配置公私钥
+cat id_rsa.pub 查看公钥里面的内容
+
+clear 清屏
+cd ..\返回上一级目录
