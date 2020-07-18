@@ -6,3 +6,8 @@ git本地仓库
 xiaoanziPython_git
 user.name=paomoxiaoanzi
 user.email=18809343303@139.com
+
+git命令
+git status  仓库的状态
+git add +文件名  跟踪文件
+git commit -m "提交的注释说明" 提交命令

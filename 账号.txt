@@ -1,8 +1,0 @@
-github
-账号名称：paomoxiaoanzi
-密码：
-
-git本地仓库
-xiaoanziPython_git
-user.name=paomoxiaoanzi
-user.email=18809343303@139.com
