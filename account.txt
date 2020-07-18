@@ -1,10 +1,18 @@
 github
 账号名称：paomoxiaoanzi
 密码：
+邮箱：18809343303@139.com
 
+创建git本地库
+mkdir +项目名称
 
 git本地仓库
 cd xiaoanziPython_git   进入本地库
+ls -al   查看库里面的文件
+git init 初始化库
+git config --global user.name "项目名称"  配置项目名称
+git config --global user.email "邮箱"    配置邮箱
+本地已经建立的库：
 user.name=paomoxiaoanzi
 user.email=18809343303@139.com
 
@@ -23,3 +31,4 @@ cat id_rsa.pub 查看公钥里面的内容
 
 clear 清屏
 cd ..\返回上一级目录
+git version   查看git版本
