@@ -6,6 +6,9 @@ github
 创建git本地库
 mkdir +项目名称
 
+克隆仓库
+git clone XXX(github上面的地址)
+
 git本地仓库
 cd xiaoanziPython_git   进入本地库
 ls -al   查看库里面的文件
